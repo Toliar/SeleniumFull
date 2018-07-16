@@ -33,6 +33,7 @@ namespace csharp_example
         {
             driver.Quit();
             driver = null;
+
         }
     }
 }
